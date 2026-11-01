@@ -1,6 +1,6 @@
 # Low-Cost Multispectral Pipeline for Distinguishing PLA from PET in Resource-Constrained Recycling
 
-Final-year project, BSc Computer Science / Data Science, Uganda Christian University (UCU).
+Final-year project, BSc Computer Science, Uganda Christian University (UCU).
 
 **Status: preliminary.** This repository contains the first stage of the project: a reproducible simulation study on a public laboratory spectral library.
 No physical sensor has been used yet. All numbers below come from `results/all_results.csv`, produced by the notebook in this repository.
