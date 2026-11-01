@@ -1,0 +1,5 @@
+scope,model,AS7421 only right (b),AS7265x only right (c),both right,both wrong,p-value (b vs c)
+Stage 1: all concentrations,LogReg,10,15,38,11,0.424
+Stage 1: all concentrations,RandomForest,11,12,38,13,1.0
+Stage 2: operational (>= 15%),LogReg,1,0,21,4,1.0
+Stage 2: operational (>= 15%),RandomForest,2,1,19,4,1.0
